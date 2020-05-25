@@ -2786,7 +2786,7 @@
 /**
  * WiFi Support (Espressif ESP32 WiFi)
  */
-#define WIFISUPPORT
+//#define WIFISUPPORT
 #if ENABLED(WIFISUPPORT)
   #define WIFI_SSID "Wifi SSID"
   #define WIFI_PWD  "Wifi Password"
